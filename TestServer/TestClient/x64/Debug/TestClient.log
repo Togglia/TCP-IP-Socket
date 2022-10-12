@@ -1,0 +1,3 @@
+﻿  Client.cpp
+C:\Users\bnlab\Desktop\TestServer\TestClient\Client.cpp(16,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  TestClient.vcxproj -> C:\Users\bnlab\Desktop\TestServer\x64\Debug\TestClient.exe
